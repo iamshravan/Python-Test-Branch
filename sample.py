@@ -9,3 +9,5 @@ elif c==30:
     print("Bvc")
 elif c<30:
     print("Gargbage Value")
+elif c==0:
+    print("Stupid")
