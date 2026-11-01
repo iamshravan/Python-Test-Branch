@@ -1,3 +1,9 @@
 a=10
 b=20
-print("Answer =",a+b)
+c=a+b 
+print("Answer =",c)
+
+if c>10:
+    print('FUCK')
+else:
+    print("Bvc")
