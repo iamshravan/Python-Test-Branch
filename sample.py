@@ -5,5 +5,7 @@ print("Answer =",c)
 
 if c>10:
     print('FUCK')
-else:
+elif c==30:
     print("Bvc")
+elif c<30:
+    print("Gargbage Value")
